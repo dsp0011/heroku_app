@@ -20,7 +20,7 @@ Quite a few problems were encountered during this assignemnt, including:
   https://github.com/dsp0011/DAT250LAB2
 
 ---
-## Explanation on how the database was accessed 
+## Explanation on how the database was accessed 🎈
   The database was accessed by Derby's IJ command. The following tables were created:
 
   - ADDRESS
@@ -33,3 +33,4 @@ Quite a few problems were encountered during this assignemnt, including:
   - PERSON_CREDITCARD
   - PINCODE 
 
+---
