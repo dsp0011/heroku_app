@@ -11,3 +11,5 @@ The todo class uses a list to store all the tasks. When the App class receives a
  - if it's a PUT request, it adds an task to the list
  - if it's a DELETE request, it deletes given task from the list
  - if it's a GET request, it returns the list with all the tasks
+
+Link to the code: https://github.com/dsp0011/DAT250LAB4
