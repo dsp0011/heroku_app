@@ -4,7 +4,7 @@
 - Running the cheksum test wasn't problemmatic, just had to remember that the script was in powershell and had to be saved as .ps1
 - Some errors were encountered when running mongod command, however they were resolved quickly after googling the error codes
 - Experiment 1 went fine and all the database statements were executed properly 
-- Everything else is pretty self-explanatory given the pictures provided
+- Everything else is pretty self-explanatory given the pictures provided ( in Lab3 folder)
 
 ---
 
